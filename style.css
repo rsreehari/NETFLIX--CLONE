@@ -6,16 +6,37 @@
 
 .mainNetflixContainer{
     border: 2px solid red;
+    
 }
 
 nav{
     border: 2px solid green;
+    height: 20vh;
     
 }
 
-.upper{
+.upperNavbarsection{
     border: 2px solid blue;
+    display: flex;
+    height: 50%;
+
 }
-.lower{
-    border : 2px solid black 
+.lowerNavbarsection{
+    border : 2px solid black;
+    height: 50%;
+}
+
+.upperNavbarsectionleft{
+    border: 2px solid red;
+    width: 50%;
+
+}
+
+.upperNavbarsectionright{
+    border: 2px solid green;
+    width: 50%;
+}
+
+.lowerNavbarsection{
+    border: 2px solid black;
 }
