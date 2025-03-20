@@ -183,3 +183,19 @@ nav{
     margin: 20px;
 
 }
+
+.inputcontainer{
+    border: 2px solid green;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.emailinput{
+    padding: 1rem 2.5rem;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    width: 60%;
+}
