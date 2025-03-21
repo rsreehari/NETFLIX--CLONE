@@ -198,4 +198,23 @@ nav{
     border: none;
     outline: none;
     width: 60%;
+    background-color: rgba(225,225,225,0.3);
+}
+
+.emailinput::placeholder{
+    color: white;
+    font-size: 1rem;
+    font-weight: 800;
+}
+
+.getStarted{
+    width: 30%;
+    background-color: red;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 800;
+
 }
